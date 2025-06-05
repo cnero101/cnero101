@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cnero101
-- 👀 I’m interested in python 3 programming and R
+- 👀 I’m interested in python 3 programming, R, Geospatial Analysis
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
