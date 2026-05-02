@@ -8,17 +8,26 @@ I build end-to-end data solutions that turn raw data into actionable insights—
 
 ## 🧰 Tech Stack
 
-**Languages & Tools:**  
-Python | R | SQL | PostGIS 
+**Languages:**  
+Python | SQL | R | Scala | Bash  
+
+**Data Engineering & Processing:**  
+PySpark | :contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1} | :contentReference[oaicite:2]{index=2} | APIs  
 
 **Data & ML:**  
-Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | PyTorch | Apache kafka
+Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
 
 **Cloud & Platforms:**  
-AWS | Azure | GCP | Databricks | Snowflake | FME | ArcGIS | QGIS | GIS Cloud
+AWS | Azure | GCP | Databricks | :contentReference[oaicite:3]{index=3} | Safe FME  
+
+**Databases & Storage:**  
+PostgreSQL | MySQL | Parquet | JSON  
+
+**GIS & Spatial:**  
+ArcGIS | QGIS | GIS Cloud  
 
 **Visualization:**  
-Streamlit | Power BI | Tableau | ArcGIS Dashboards
+Streamlit | Power BI | Tableau | ArcGIS Dashboards  
 
 ---
 
