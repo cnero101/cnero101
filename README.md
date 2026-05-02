@@ -1,10 +1,79 @@
-- 👋 Hi, I’m Ifeanyi Njoku
-- 👀 I’m interested in Python 3 programming, R, Geospatial Analysis, Data Analytics, and Machine Learning
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ...
+## 👋 Hi, I’m Ifeanyi Njoku
 
-<!---
-cnero101/cnero101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Engineer | GIS & Data Science Specialist**
+
+I build end-to-end data solutions that turn raw data into actionable insights—combining geospatial intelligence, cloud platforms, and machine learning.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools:**  
+Python | R | SQL | PostGIS 
+
+**Data & ML:**  
+Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | PyTorch | Apache kafka
+
+**Cloud & Platforms:**  
+AWS | Azure | GCP | Databricks | Snowflake | FME | ArcGIS | QGIS | GIS Cloud
+
+**Visualization:**  
+Streamlit | Power BI | Tableau | ArcGIS Dashboards
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Wildfire Analytics & Prediction  
+- Built spatial analysis workflows using Alberta wildfire data (2006–2024)  
+- Applied clustering (KMeans + PCA) and logistic regression for risk prediction  
+- Developed interactive dashboards (Streamlit + Jupyter) with hotspot maps and KPIs  
+🔗 *https://github.com/cnero101/alberta-wildfire-analysis*
+
+---
+
+### 🛢️ Real-Time Pipeline Monitoring System  
+- Designed AWS streaming pipeline (Kinesis, Lambda, S3, SNS)  
+- Processed structured and semi-structured data into Parquet format  
+- Built Streamlit dashboard for real-time anomaly detection and monitoring  
+🔗 *https://github.com/cnero101/AWS-Data-Engineering-Project*
+
+---
+
+### 🗺️ Site Suitability Analysis (Healthcare Access)  
+- Performed GIS-based multi-criteria analysis for optimal facility placement  
+- Integrated demographic and spatial datasets for decision support  
+🔗 *[Add GitHub Repo Link]*
+
+---
+
+## 📊 What I Do
+
+- Build scalable **data pipelines (batch + streaming)**  
+- Perform **geospatial and statistical analysis**  
+- Develop **machine learning models for real-world problems**  
+- Create **interactive dashboards for decision-making**  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to working on:
+- GIS & spatial analytics projects  
+- Data engineering pipelines  
+- Machine learning applications  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *https://linkedin.com/in/ifeanyi-e-njoku*  
+- 📧 Email: *ifeanyinjoku2@gmail.com*  
+- 🌐 Portfolio: *[Optional]*  
+
+---
+
+## ⚡ GitHub Stats (Optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
