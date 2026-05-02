@@ -12,7 +12,28 @@ I build end-to-end data solutions that turn raw data into actionable insights—
 Python | SQL | R | Scala | Bash  
 
 **Data Engineering & Processing:**  
-PySpark | Apache Spark | Apache Kafka | Apache Airflow | APIs  
+## 🧰 Tech Stack
+
+**Languages:**  
+Python | SQL | R | Scala | Bash  
+
+**Data Engineering & Processing:**  
+PySpark (Spark) | Kafka (Streaming) | Airflow (Orchestration) | REST APIs  
+
+**Data & ML:**  
+Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
+
+**Cloud & Platforms:**  
+AWS | Azure | GCP | Databricks | Snowflake | FME  
+
+**Databases & Storage:**  
+PostgreSQL | MySQL | Parquet | JSON  
+
+**GIS & Spatial:**  
+ArcGIS | QGIS | GIS Cloud  
+
+**Visualization:**  
+Streamlit | Power BI | Tableau | ArcGIS Dashboards   
 
 **Data & ML:**  
 Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
