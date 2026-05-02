@@ -12,13 +12,13 @@ I build end-to-end data solutions that turn raw data into actionable insights—
 Python | SQL | R | Scala | Bash  
 
 **Data Engineering & Processing:**  
-PySpark | :contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1} | :contentReference[oaicite:2]{index=2} | APIs  
+PySpark | Apache Spark | Apache Kafka | Apache Airflow | APIs  
 
 **Data & ML:**  
 Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
 
 **Cloud & Platforms:**  
-AWS | Azure | GCP | Databricks | :contentReference[oaicite:3]{index=3} | Safe FME  
+AWS | Azure | GCP | Databricks | Snowflake | FME  
 
 **Databases & Storage:**  
 PostgreSQL | MySQL | Parquet | JSON  
@@ -27,7 +27,7 @@ PostgreSQL | MySQL | Parquet | JSON
 ArcGIS | QGIS | GIS Cloud  
 
 **Visualization:**  
-Streamlit | Power BI | Tableau | ArcGIS Dashboards  
+Streamlit | Power BI | Tableau | ArcGIS Dashboards    
 
 ---
 
