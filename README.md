@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ifeanyi Njoku
 
-**Data Engineer | GIS & Data Science Specialist**
+**Data Engineer | GIS & Data Science Specialist | Project Manager**
 
 I build end-to-end data solutions that turn raw data into actionable insights—combining geospatial intelligence, cloud platforms, and machine learning.
 
