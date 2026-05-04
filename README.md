@@ -12,12 +12,6 @@ I build end-to-end data solutions that turn raw data into actionable insights—
 Python | SQL | R | Scala | Bash  
 
 **Data Engineering & Processing:**  
-## 🧰 Tech Stack
-
-**Languages:**  
-Python | SQL | R | Scala | Bash  
-
-**Data Engineering & Processing:**  
 PySpark (Spark) | Kafka (Streaming) | Airflow (Orchestration) | REST APIs  
 
 **Data & ML:**  
