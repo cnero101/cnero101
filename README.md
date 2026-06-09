@@ -2,7 +2,7 @@
 
 **Data Science | Data Engineering | GeoAI | Remote Sensing and GIS | Project Management**
 
-I build end-to-end data solutions that turn raw data into actionable insights—combining geospatial intelligence, cloud platforms, and machine learning.
+I build end-to-end data solutions that turn raw data into actionable insights—combining geospatial intelligence, cloud platforms, artificial Intelligence, and machine learning.
 
 ---
 
