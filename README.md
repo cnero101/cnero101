@@ -93,11 +93,11 @@ I’m open to working on:
 
 - 💼 LinkedIn: *https://linkedin.com/in/ifeanyi-e-njoku*  
 - 📧 Email: *ifeanyinjoku2@gmail.com*  
-- 🌐 Portfolio: *[Optional]*  
+- 🌐 Portfolio: 
 
 ---
 
-## ⚡ GitHub Stats (Optional)
+## ⚡ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
